@@ -61,7 +61,7 @@ Description: Assumption is you want to add ForgeRock OpenAm Authentication to yo
 
     Step 1: Install and run docker in your local computer
 
-    Step 2: docker pull madhureddy480/apache2-httpd-mod-auth-openidc-openam
+    Step 2: docker pull madhureddy480/apache2-httpd-mod-auth-openidc-openam-forgerock
 
     Explained: 
 
