@@ -9,8 +9,8 @@ Description: Assumption is you want to add ForgeRock OpenAm Authentication to yo
 
     Step 1: update your computer host file to point localhost to "host.docker.internal"
 
-    in windows computer: go to system32/drivers/hosts file and add an entry ..
-    in mac go type in terminal:  sudo nano /etc/hosts and add an entry .. 
+    in windows computer: go to system32/drivers/hosts file and add below host config ..
+    in mac go type in terminal:  sudo nano /etc/hosts and add below host config .. 
 
             127.0.0.1 localhost host.docker.internal
 
