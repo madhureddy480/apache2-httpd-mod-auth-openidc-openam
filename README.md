@@ -1,4 +1,4 @@
-# apache2-httpd-mod-auth-openidc-openam
+# apache2-httpd-mod-auth-openidc-openam-ForgeRock
 
 ##### ForgeRock OpenAm - OpenIDC with Apache mod_auth_openidc Relying Party (RP)
 
